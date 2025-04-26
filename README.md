@@ -10,7 +10,7 @@
 <br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-singh-802b992a8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amansingh79620@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-singh-802b992a8/)        [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amansingh79620@gmail.com) 
 <br>
 
 ###
