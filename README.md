@@ -2,8 +2,8 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=6000&pause=1000&color=519EFF&width=650&lines=My+Name+is+Aman+Singh" alt="MY name is Aman singh" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=6000&pause=2000&color=519EFF&width=650&lines=An+Aspiring+Passionate+Full+Stack+Developer" alt="Passionate full stack developer" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=6000&pause=1000&color=519EFF&width=410&lines=My+Name+is+Aman+Singh" alt="MY name is Aman singh" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=6000&pause=2000&color=519EFF&width=410&lines=An+Aspiring+Passionate+Full+Stack+Developer" alt="Passionate full stack developer" /></a>
 <br/>
 
 ## 🌐 Socials:
