@@ -1,7 +1,5 @@
 <img align="right" height="137" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmd2MmZnaTJtemh6andoY3NlcXY3eTd0ZmZsaDA2bTE2d3ltamd0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
 
-###
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=6000&pause=1000&color=519EFF&width=650&lines=My+Name+is+Aman+Singh" alt="MY name is Aman singh" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=6000&pause=2000&color=519EFF&width=650&lines=An+Aspiring+Passionate+Full+Stack+Developer" alt="Passionate full stack developer" /></a>
 <br/>
@@ -15,7 +13,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo"  />
-  <img width="30" />
+ 
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="31" alt="css3 logo"  />
   <img width="30" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="31" alt="javascript logo"  />
