@@ -14,7 +14,7 @@
 ## 💻 Tech Stack:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo" style="display: inline-block; margin-bottom: 10px;"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo" style="margin-bottom: 30px;"  />
   <img width="30" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="31" alt="css3 logo" style="margin-bottom: 10px;"  />
   <img width="30" />
