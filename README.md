@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Aspiring passionate Full Stack Developer</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=6000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aspiring+passionate+Full+Stack+Developer" alt="Typing SVG" /></a>
 <p>Front-end developer | Application developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
