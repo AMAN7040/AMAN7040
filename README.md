@@ -1,12 +1,13 @@
-<img align="right" height="136" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmd2MmZnaTJtemh6andoY3NlcXY3eTd0ZmZsaDA2bTE2d3ltamd0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+<img align="left" height="137" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmd2MmZnaTJtemh6andoY3NlcXY3eTd0ZmZsaDA2bTE2d3ltamd0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
 
 ###
 
-<h1 style="text-decoration: none; align="left">Hi 👋! My name is Aman Singh</h1>
+<h1 align="left">Hi 👋! My name is Aman Singh</h1>
 
 ###
 
-<h2 style="text-decoration: none; align="left">An Passionate Aspiring Full Stack Developer</h2>
+<h2 align="left">An Passionate Aspiring Full Stack Developer</h2>
+<br/>
 
 ###
 
@@ -44,15 +45,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+<br/>
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AMAN7040&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=MY%20GITHUB%20STATS" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMAN7040&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2&custom_title=LANGUAGES%20USED" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AMAN7040&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=7&date_format=M%20j%5B,%20Y%5D&order=3" height="140" alt="streak graph"  />
 </div>
 
 ###
+<br/>
 
 <p align="left">CURRENTLY & FUTURE LEARNING</p>
 
@@ -71,6 +74,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
 </div>
+<br/>
 
 ###
 
