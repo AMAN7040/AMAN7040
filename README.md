@@ -51,13 +51,19 @@
 
 ## 📊 GitHub Stats:
 
-<table>
+<table width="100%" cellspacing="10" cellpadding="0" border="0" style="border-collapse: collapse; background: transparent;">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AMAN7040&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=MY%20GITHUB%20STATS" height="140" alt="stats graph" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMAN7040&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2&custom_title=LANGUAGES%20USED" height="140" alt="languages graph" /></td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AMAN7040&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=MY%20GITHUB%20STATS" height="180" alt="stats graph" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMAN7040&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2&custom_title=LANGUAGES%20USED" height="180" alt="languages graph" />
+    </td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://streak-stats.demolab.com?user=AMAN7040&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=7&date_format=M%20j%5B,%20Y%5D&order=3" height="140" alt="streak graph" /></td>
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com?user=AMAN7040&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=7&date_format=M%20j%5B,%20Y%5D&order=3" height="180" alt="streak graph" />
+    </td>
   </tr>
 </table>
 
