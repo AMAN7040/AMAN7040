@@ -9,6 +9,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=6000&pause=1000&color=519EFF&width=650&lines=An+Aspiring+Passionate+Full+Stack+Developer" alt="Typing SVG" /></a>
 <br/>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-singh-802b992a8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amansingh79620@gmail.com) 
+<br>
+
 ###
 
 <div class="grid grid-cols-3 sm:grid-cols-3 lg:grid-cols-5 gap-5" align="left">
