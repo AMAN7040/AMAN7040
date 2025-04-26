@@ -12,7 +12,7 @@
 <br>
 <br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
@@ -50,7 +50,9 @@
 
 <br>
 <br>
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AMAN7040&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=MY%20GITHUB%20STATS" height="140" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMAN7040&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2&custom_title=LANGUAGES%20USED" height="140" alt="languages graph" />
@@ -62,7 +64,7 @@
 <br>
 <br>
 
-# 💻 Learning 
+## 💻 Learning 
 
 <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
