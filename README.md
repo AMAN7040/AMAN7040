@@ -2,11 +2,11 @@
 
 ###
 
-<h1 align="left">Hi 👋! My name is Aman Singh</h1>
+<p style="font-size:20px" align="left">Hi 👋! My name is Aman Singh</p>
 
 ###
 
-<h2 align="left">An Passionate Aspiring Full Stack Developer</h2>
+<p style="font-size:20px" align="left">An Passionate Aspiring Full Stack Developer</p>
 <br/>
 
 ###
